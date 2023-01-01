@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi👋, I'm Ahmet Melih</h1>
+<h3 align="center">Game Developer</h3>
 
-<!--
-**AhmetMelihIslam/AhmetMelihIslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/ahmet-melih-islam-a73167154/)
+[Youtube](https://www.youtube.com/@ahmetmelihislam/featured)
+[Reddit](https://www.reddit.com/user/TarmaDSho_0)
+[itch.io](https://ahmet-melih-islam.itch.io/)
+[Twitter](https://twitter.com/AhmetMelihIslam)
+[Instagram](https://www.instagram.com/ahmet_melih_islam/)
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=AhmetMelihIslam.AhmetMelihIslam)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetMelihIslam&layout=compact)](https://github.com/anuraghazra/github-readme-stats),
+
+![Ahmet Melih GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetMelihIslam&show_icons=true&theme=dark)
