@@ -5,7 +5,7 @@
 [Youtube](https://www.youtube.com/@ahmetmelihislam/featured)
 [Reddit](https://www.reddit.com/user/TarmaDSho_0)
 [itch.io](https://ahmet-melih-islam.itch.io/)
-[Twitter](https://twitter.com/AhmetMelihIslam)
+[Twitter](https://twitter.com/sergionaldao)
 [Instagram](https://www.instagram.com/ahmet_melih_islam/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AhmetMelihIslam.AhmetMelihIslam)<br/>
